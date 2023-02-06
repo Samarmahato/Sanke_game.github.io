@@ -1,16 +1,12 @@
 # Sanke_game.github.io
 
-# Support And Progression(CRM-Content-Resource-Management)-
-Support And Progression(CRM- Content Resource Management) is AN BLOCKCHAIN based platform in which all student of our college or other colleges can create a community to collaborate. This is on-campus discussion forum for the student of the campus. 
+# Snake game
+A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the apple, the length of the snake increases and the movement becomes faster.
 ## About the Project💡
-Events webpage plays a vital role in promoting and booking for an event. In this project, I am build an event page, it will contain the details of the events like date, booking option and view more details button. We will use HTML to give the basic layout like title, details, buttons etc. and CSS will give a beautiful design to our layout like text-decoration, text color, background color, text alignment, margin, padding, box floating etc.
+A Snake game project in JavaScript can be an excellent introduction to game development. The game involves building a board, creating a snake that can move across the board, generating food for the snake to eat, and detecting collisions between the snake and walls or its own body. To build this project, you will need to have a basic understanding of JavaScript and HTML5 canvas. The project requires implementing various features such as user inputs, animations, and game logic to create a functional game. With its simple mechanics, a Snake game can be a fun and engaging project that can help you learn about game development and JavaScript programming.
 
-Approach:
-
-- We will create two div’s first for the left content (it will contain the details of the event) and the right one will have 3 boxes containing summary of events (like date, view more button etc.).
-- The left section containing the design has a header and text created using h1 and p tag. The right section having 3 boxes contains view more created using button, time created using span tag. It also contains a header and paragraph.
-- In CSS section, we will create box design using (box-sizing) for both left and right section, give background color, text alignment, text-decoration, and hover effect using transition effect. We will also give different background color to hover effects to .
 ## Introduction💡
+The Snake game is a classic game where a player controls a snake that moves across a board and eats food. The snake grows in length with each food item eaten. The goal is to reach the highest score possible before the snake crashes into the wall or itself. A snake game project in JavaScript can be built using HTML5 canvas and JavaScript programming language. It involves creating the game board, designing the snake, implementing its movement, generating food, and detecting collisions. This project is a great introduction to game development and provides a good understanding of JavaScript and HTML5 canvas.
 
 
 
@@ -31,13 +27,19 @@ Approach:
 
 - [Git Documentation](https://git-scm.com/docs)
 - [GitHub Guides](https://guides.github.com/)
-- [CPP Documentation](https://cplusplus.com/)
-- [Youtube Video](https://www.youtube.com/watch?v=vNT4P23ihCo)
-- [Geeksfogeeks Article](https://www.geeksforgeeks.org/menu-driven-program-for-bank-management-system/)
+- [JavaScript Documentation](https://www.javascript.com/)
+- [HTML Documentation](https://www.w3schools.com/html/)
+- [CSS Documentation](https://www.w3schools.com/css/)
+- [Boostrap Documentation](https://getbootstrap.com/)
+- [Youtube Video](https://youtu.be/2ZDnw6ifdSI)
+- [Geeksfogeeks Article](https://www.geeksforgeeks.org/snake-game-in-c/)
+- [freecodecamp. Article](https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/)
 - [vs Code for Developers](https://code.visualstudio.com/)
 
 
 ## Application💡
+A Snake game project using JavaScript can have various applications in the field of game development. It can be used as a learning tool to understand the basics of game development and the implementation of key concepts such as user inputs, animations, and game logic. The project can also serve as a foundation for building more advanced games with similar mechanics. 
+- Additionally, the project can be extended and customized to add new features and challenges, making it a fun and engaging experience for players. The Snake game can be deployed on various platforms, including web browsers, mobile devices, and desktop applications, providing a wide reach for players.
 
 ## License📜
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
