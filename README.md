@@ -2,19 +2,14 @@
 
 # Snake game
 A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the apple, the length of the snake increases and the movement becomes faster.
+# Snake game Live Link
+Try the game with this link Only for laptop or desktop.
+- https://samarmahato.github.io/Sanke_game.github.io/
 ## About the Project💡
 A Snake game project in JavaScript can be an excellent introduction to game development. The game involves building a board, creating a snake that can move across the board, generating food for the snake to eat, and detecting collisions between the snake and walls or its own body. To build this project, you will need to have a basic understanding of JavaScript and HTML5 canvas. The project requires implementing various features such as user inputs, animations, and game logic to create a functional game. With its simple mechanics, a Snake game can be a fun and engaging project that can help you learn about game development and JavaScript programming.
 
 ## Introduction💡
 The Snake game is a classic game where a player controls a snake that moves across a board and eats food. The snake grows in length with each food item eaten. The goal is to reach the highest score possible before the snake crashes into the wall or itself. A snake game project in JavaScript can be built using HTML5 canvas and JavaScript programming language. It involves creating the game board, designing the snake, implementing its movement, generating food, and detecting collisions. This project is a great introduction to game development and provides a good understanding of JavaScript and HTML5 canvas.
-
-
-
-
-
-
-
-
 
 ## Technology Stack 🛠️
   
